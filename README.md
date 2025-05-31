@@ -1,7 +1,5 @@
 # Application E-commerce : Liste de Produits avec Panier
 
-![Aperçu de l'application](./public/preview.jpg)
-
 ## Description
 
 Cette application e-commerce, développée avec Next.js 14, offre une expérience complète de shopping en ligne. Elle permet aux utilisateurs de naviguer dans un catalogue de produits, de gérer leur panier d'achat et de finaliser leurs commandes. L'application se distingue par son interface utilisateur intuitive, sa réactivité sur tous les appareils et ses performances optimisées.
